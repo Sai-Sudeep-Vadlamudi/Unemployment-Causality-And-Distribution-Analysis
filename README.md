@@ -37,6 +37,9 @@ The goal of this repository is to analyze unemployment in India through an inter
 - What visual patterns emerge when unemployment, employment, and labour participation are analyzed together?
 
 ---
+<img width="346" height="315" alt="{E97CEAAB-4D64-43EB-87D4-FE73CB42818D}" src="https://github.com/user-attachments/assets/ec36cbb4-79f8-403b-8f1a-4444f83a55a1" /> <img width="346" height="315" alt="{8BF4E5AC-4996-4409-91EC-B4714556A447}" src="https://github.com/user-attachments/assets/ad1b3ff8-63ba-4260-8758-6d4dc227678f" />
+
+---
 
 ## Data Assets
 
